@@ -11,6 +11,7 @@ Model | Acer Aspire V3-771G
 CPU | Intel Core i5-3210M
 iGPU | Intel HD Graphics 4000
 dGPU | NVIDIA Geforce GT 640M (disabled)
+Display | 1600x900 (TN-Panel)
 RAM | 8 GB DDR3
 WiFi | Atheros AR9462
 macOS | Big Sur
